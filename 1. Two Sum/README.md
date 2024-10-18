@@ -1,4 +1,4 @@
-# Two Sum
+# [Two Sum](https://leetcode.com/problems/two-sum/)
 The aproach for this problem is map each number of the given array.
 For each number, we check the difference between the target and the number.
 

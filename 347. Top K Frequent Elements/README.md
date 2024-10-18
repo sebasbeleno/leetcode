@@ -1,4 +1,4 @@
-# 347. Top K Frequent Elements
+# [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 The aproach of this problem is to map the frequency of each number in the given array.
 
